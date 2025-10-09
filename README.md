@@ -49,10 +49,12 @@
 
 
 <div>
-<a href="https://github.com/EduardoSB-2">
-<img loading="lazy" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSB-2&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="240em" src="https://github-readme-stats.vercel.app/api?username=EduardoSB-2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div><br>
+  <a href="https://github.com/EduardoSB-2">
+    <img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSB-2&layout=compact&langs_count=7&theme=transparent&bg_color=000000&title_color=ff4c4c&text_color=ffffff&icon_color=ff4c4c&border_color=ff4c4c"/>
+    <img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api?username=EduardoSB-2&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=000000&title_color=ff4c4c&text_color=ffffff&icon_color=ff4c4c&border_color=ff4c4c"/>
+  </a>
+</div>
+
 
 
 
