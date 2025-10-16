@@ -8,16 +8,16 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** Dart • TypeScript • JavaScript • HTML • CSS  
-- **Frameworks & Libs:** Flutter • NestJS • Express  
-- **Ferramentas:** Git • GitHub • Figma • Docker  
+- **Linguagens:** Dart • TypeScript • JavaScript • Python
+- **Frameworks & Libs:** Flutter • NestJS • Express
+- **Ferramentas:** Git • GitHub • Figma
 
 ---
 
 
 ## Ferramentas e Tecnologias
 
-  <div style="display: flex; gap: 10px;">
+  <div style="display: flex; gap: 10 px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
