@@ -63,7 +63,7 @@
 
 
 
-![Snake animation](https://github.com/EduardoSB-2/EduardoSB-2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/EduardoSB-2/EduardoSB-2/main/github-contribution-grid-snake.svg)
 
 
 
