@@ -32,7 +32,7 @@
 
 
 ## Estou aprendendo            
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10 px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>
@@ -63,6 +63,7 @@
 
 
 
+![Snake animation](https://github.com/EduardoSB-2/EduardoSB-2/blob/output/github-contribution-grid-snake.svg)
 
 
 
